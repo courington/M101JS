@@ -1,0 +1,27 @@
+{
+  "name": "intro_to_npm",
+  "version": "0.0.1",
+  "description": "mongodb university - mongodb101 for node.js developers",
+  "main": "app.js",
+  "dependencies": {
+    "consolidate": "^0.10.0",
+    "express": "^4.4.4",
+    "mongodb": "^1.4.7"
+    },
+  "devDependencies": {
+    
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/courington/M101JS"
+  },
+  "author": "https://github.com/courington",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/courington/M101JS/issues"
+  },
+  "homepage": "https://github.com/courington/M101JS"
+}
